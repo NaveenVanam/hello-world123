@@ -1,3 +1,2 @@
-# hello-world123
-another repo
-wgfuwgejhfbhhjdgvjhdgvhjdg
+npm run build
+dist/pa-starter-angular
